@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sherine Ebrahiem</h1>
+<h1 align="center">Hi 👋, I'm Shereen Ebrahiem</h1>
 <h3 align="center">Artificial Intelligence Engineer | Python & Data Science Enthusiast</h3>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - 🎓 Graduate of Faculty of Computer science & Artificial intelligence– Artificial Intelligence Department  
 -  Graduation Project: **Driver Monitoring System (in collaboration with Valeo)**
